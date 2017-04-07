@@ -1,7 +1,7 @@
 {
   "name": "codemommy/serverphp",
   "version": "0.0.1",
-  "description": "CodeMommy ServerPHP is a server helper for web development.",
+  "description": "Get all the information of server",
   "keywords": [
     "CodeMommy",
     "ServerPHP",

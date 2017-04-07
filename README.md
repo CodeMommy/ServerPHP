@@ -6,8 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/ServerPHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/ServerPHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/ServerPHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/ServerPHP)
 
-
-> CodeMommy ServerPHP is a request helper for web development.
+> Get all the information of server
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/ServerPHP) to get more information.
 
